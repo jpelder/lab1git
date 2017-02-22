@@ -1,5 +1,4 @@
 # lab1git
 Jeremy Elder
 
-
-ADDING a line
+EDITED README 2/22
